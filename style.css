@@ -37,8 +37,6 @@ h1 {
 }
 
 .container1 button {
-    width: 50px;
-    height: 30px;
     cursor: pointer;
     font-size: 20px;
 }
@@ -60,8 +58,6 @@ h1 {
 }
 
 .container2 button {
-    width: 50px;
-    height: 30px;
     cursor: pointer;
     font-size: 20px;
 }
@@ -83,8 +79,6 @@ h1 {
 }
 
 .container3 button {
-    width: 50px;
-    height: 30px;
     cursor: pointer;
     font-size: 20px;
 }
