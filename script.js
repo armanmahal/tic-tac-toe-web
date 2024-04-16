@@ -358,5 +358,5 @@ function clear() {
 function updateDisplay(){
     wins.innerText = `WINS: ${win}`;
     loses.innerText = `LOSES: ${lose}`;
-    draws.innerText = `DRAWS(aka you LOSE): ${draw}`;
+    draws.innerText = `DRAWS(i.e. you LOSE): ${draw}`;
 }
